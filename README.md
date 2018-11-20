@@ -8,7 +8,7 @@
     * Funções
     * Recursividade
     * Arquivos
-    * Entre outros tópicos mais breves
+    * Tópicos mais breves
 * Lógica das questões
 * Como executar os códigos (No Windows): 
     * Utilizando GCC
@@ -26,7 +26,7 @@ As questões serão mais detalhadas dentro de suas resoluções, resumidamente o
 3. Funções
 4. Recursividade
 5. Arquivos
-6. Entre outros tópicos mais breves
+6. Tópicos mais breves
 
 ## Lógica das questões
 As questões são baseadas nas matérias de Algoritmos de Programação I e II, no qual entendemos o porquê, como e quando precisamos utilizar os tópicos abordados nas questões, que são fundamentais para uma escrita correta de código.
@@ -46,7 +46,7 @@ Usando conceitos de 'caso base' e 'chamadas recursivas', para podermos entender 
 5. Arquivos
 Através da necessidade de gravar os dados sem perde-los após o encerramento do programa, usaremos conceitos de fopen, fclose, fprint, '.txt',  abertura de arquivos (r,w, a), entre outros.
 
-6. Entre outros tópicos mais breves
+6. Tópicos mais breves
 Desafios e conceitos dados como Listas de Exercício e Atividades em Sala de Aula, serão utilizados para explicar coisas não abordadas detalhadamente nos tópicos acima ou que possam de alguma forma gerar dúvidas.
 
 ## Como executar os códigos (no Windows):
