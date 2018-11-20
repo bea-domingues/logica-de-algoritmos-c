@@ -1,18 +1,18 @@
-# logica-de-algoritmos-c
+# Lógica de Algoritmos em C
 
 ## Sumário
 * Introdução
 * Questões abordadas
-    1. Condições 
-    2. Vetores e Matrizes
-    3. Funções
-    4. Recursividade
-    5. Arquivos
-    6. Entre outros tópicos mais breves
+    * Condições 
+    * Vetores e Matrizes
+    * Funções
+    * Recursividade
+    * Arquivos
+    * Entre outros tópicos mais breves
 * Lógica das questões
 * Como executar os códigos (No Windows): 
-    1. Utilizando GCC
-    2. Opção Alternativa: Usar DEV C++
+    * Utilizando GCC
+    * Opção Alternativa: Usar DEV C++
 
 ## Introdução
 
